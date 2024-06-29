@@ -29,3 +29,6 @@ describe("Testing function", function () {
 ##Courses:
 *RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 ---
+##Languages:
+*English - B2
+*Russian - Native
