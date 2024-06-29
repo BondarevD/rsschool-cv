@@ -26,3 +26,6 @@ describe("Testing function", function () {
   });
 });
 ---
+##Courses:
+*RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+---
