@@ -1,1 +1,1 @@
-# rsschool-cv
+https://BondarevD.github.io/rsschool-cv/cv
